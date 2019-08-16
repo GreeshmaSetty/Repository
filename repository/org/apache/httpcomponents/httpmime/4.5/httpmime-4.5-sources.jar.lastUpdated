@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 16 12:13:43 IST 2019
+@default-saucelabs-repository-http\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1555397019325
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1555397023369
+http\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact org.apache.httpcomponents\:httpmime\:jar\:sources\:4.5 from/to saucelabs-repository (http\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpmime\:jar\:sources\:4.5 from/to central (https\://repo.maven.apache.org/maven2)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target

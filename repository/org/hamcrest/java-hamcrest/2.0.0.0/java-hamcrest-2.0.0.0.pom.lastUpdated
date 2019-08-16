@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 23 15:58:34 IST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1556015314850
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hamcrest\:java-hamcrest\:pom\:2.0.0.0 from/to central (https\://repo.maven.apache.org/maven2)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target

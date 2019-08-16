@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 17 14:34:20 IST 2018
+logback-ext-loggly-0.1.2-sources.jar>central=
+logback-ext-loggly-0.1.2.jar>central=
+logback-ext-loggly-0.1.2.pom>central=

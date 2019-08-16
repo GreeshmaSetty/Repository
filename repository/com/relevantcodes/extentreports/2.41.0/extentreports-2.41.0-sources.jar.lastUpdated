@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 17 13:12:47 IST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1539762167023
+http\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1539762162569
+http\://repository-saucelabs.forge.cloudbees.com/release/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.relevantcodes\:extentreports\:jar\:sources\:2.41.0 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

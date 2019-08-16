@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 17:27:37 IST 2018
+selenium-server-2.53.1-sources.jar>central=
+selenium-server-2.53.1.jar>central=
+selenium-server-2.53.1.pom>central=

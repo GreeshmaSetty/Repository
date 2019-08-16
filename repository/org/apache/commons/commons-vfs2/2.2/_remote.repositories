@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 04 12:50:25 IST 2018
+commons-vfs2-2.2.jar>central=
+commons-vfs2-2.2.pom>central=
+commons-vfs2-2.2-sources.jar>central=
